@@ -1,4 +1,12 @@
 # 웹사이트 제작 Project
+## 2024 2학년
+|  project |          name          |              web              |                                                       source                                                      |
+|:--------:|:----------------------:|:-----------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
+| 스킨온 | 황유진 | https://skinon.netlify.app/ | https://github.com/ssep4u/2024-WSM-Project_SkinOn |
+| New | 왕현주 | https://nctwishhh.netlify.app/main.html | https://github.com/ssep4u/2024-WSM-Project_New |
+| 베이스 노트(BaseNote) | 오지은 | https://basenote.netlify.app/signup | https://github.com/ssep4u/2024-WSM-Project_BaseNote-release |
+| FItFlus | 이서윤 | https://aesthetic-cascaron-aeb988.netlify.app/ | https://github.com/ssep4u/2024-WSM-Project_FitFlusProject |
+
 ## 2023 2학년
 |  project |          name          |              web              |                                                       source                                                      |
 |:--------:|:----------------------:|:-----------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
